@@ -70,5 +70,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 *Figure 2: Data Extraction*
 
 ### Video Demo
-[![DocTagger Demo](assets/Main_Interface.png)](https://www.youtube.com/watch?v=your-video-id)
+[![DocTagger Demo](assets/Main_Interface.png)](https://youtu.be/o2uMdN8vZAI)
 
