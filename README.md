@@ -44,20 +44,20 @@ DocTagger is a Python-based application designed for extracting and tagging data
     python main.py
 
 2. In the GUI
-• Click the "Upload PDF" button to select and upload a PDF file.
-• The application will extract data from the PDF and display it for tagging along with the automated tags.
-• Apply/modify tags as needed.
-• Click "Save" to save the extracted data.
-• Click on "Undo" button to rectify error. 
-• Click on "Delete" to delete tags. 
-• Use the "Upload" button to start the process again with a new PDF.
+- • Click the "Upload PDF" button to select and upload a PDF file.
+- • The application will extract data from the PDF and display it for tagging along with the automated tags.
+- • Apply/modify tags as needed.
+- • Click "Save" to save the extracted data.
+- • Click on "Undo" button to rectify error. 
+- • Click on "Delete" to delete tags. 
+- • Use the "Upload" button to start the process again with a new PDF.
 
 ### Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-• Fork the repository.
-• Create a new branch (git checkout -b feature/your-feature).
-• Commit your changes (git commit -am 'Add new feature').
-• Push to the branch (git push origin feature/your-feature).
-• Create a new Pull Request.
+- • Fork the repository.
+- • Create a new branch (git checkout -b feature/your-feature).
+- • Commit your changes (git commit -am 'Add new feature').
+- • Push to the branch (git push origin feature/your-feature).
+- • Create a new Pull Request.
