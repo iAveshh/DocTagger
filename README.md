@@ -61,3 +61,14 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - • Commit your changes (git commit -am 'Add new feature').
 - • Push to the branch (git push origin feature/your-feature).
 - • Create a new Pull Request.
+
+### GUI - Snapshots
+
+![Main Interface](assets/Main_Interface.png)
+*Figure 1: Main Interface*
+![Data Extraction](assets/Data_Extraction.png)
+*Figure 2: Data Extraction*
+
+### Video Demo
+[![DocTagger Demo](assets/Main_Interface.png)](https://www.youtube.com/watch?v=your-video-id)
+
